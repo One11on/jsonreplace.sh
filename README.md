@@ -3,8 +3,13 @@
 
 
 git clone
+
 chmod +x jsonreplace.sh
+
 jsonreplace.sh --help
 
+
 if any error then
+
 sudo apt-get install jq
+
